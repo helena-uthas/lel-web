@@ -1,0 +1,4 @@
+{{ $date := .Date | time.Format ":date_long" }}
+{{ $monthFull := index (split $date " ") 1 }}
+{{ $monthShort := substr $monthFull 0 3 }}
+{{ $monthShort }}

@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $date := .Date | time.Format ":date_long" }}
+{{ $dateParts := split $date " " }}
+{{ $day := index $dateParts 0 }}
+{{ $year := index $dateParts 2 }}
+{{ $monthFull := index $dateParts 1 }}
+{{ $monthShort := substr $monthFull 0 3 }}
+{{ $monthDay := print $day " " $monthShort }}
+
+<!-- notice details -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="d-flex">
+          <div class="text-center mr-4">
+            <div class="p-4 bg-primary text-white">
+              <!-- <span class="h2 d-block">{{ humanize .PublishDate.Day }}</span> {{ .PublishDate.Format "Jan, 2006"}} -->
+              <span class="h2 d-block">{{ print $day " " $monthShort }}</span>{{$year}}</div>
+            </div>
+          </div>
+          <!-- notice content -->
+          <div class="content">
+            {{ .Content }}
+            {{ with .Params.Download_link }} <a href="{{ . | absURL }}" class="btn btn-primary">{{ i18n "download" }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /notice details -->
+
+{{ end }}

@@ -1,0 +1,109 @@
+- id: read_more
+  translation: Läs Mer
+
+- id: contact_form
+  translation: Kontakt Formulär
+
+- id: send
+  translation: skicka meddelande
+
+- id: contact_info
+  translation: Kontakt Information
+
+- id: subscribe_newsletter
+  translation: DELETENEWSLETTER
+
+- id: ticket
+  translation: Biljett
+
+- id: contact_us
+  translation: Kontakta Oss
+
+- id: latest_article
+  translation: Senaste artikel
+
+- id: categories
+  translation: Kategorier
+
+- id: tags
+  translation: Taggar
+
+- id: see_all
+  translation: Se Mer
+
+- id: apply_now
+  translation: Att Ansöka
+
+- id: posted_by
+  translation: Skrivet av
+
+- id: date
+  translation: Datum
+
+- id: time
+  translation: Tid
+
+- id: category
+  translation: Kategori
+
+- id: related_course
+  translation: Relaterade Program
+
+- id: duration
+  translation: Längd
+
+- id: weekly
+  translation: Veckovis
+
+- id: fee
+  translation: Pris
+
+- id: teacher
+  translation: Lärare
+
+- id: location
+  translation: Plats
+
+- id: entry_fee
+  translation: Biljettpris
+
+- id: event_speaker
+  translation: Artister
+
+- id: more_event
+  translation: Mer händelser
+
+- id: join
+  translation: Gå med
+  
+- id: enter_email
+  translation: Skriv in din epost
+- id: company
+  translation: Skola
+
+- id: links
+  translation: länkar
+
+- id: courses
+  translation: Program
+
+- id: new_notice
+  translation: Händelser
+
+- id: call
+  translation: telefon
+
+- id: email
+  translation: email
+
+- id: all
+  translation: Alla
+
+- id: interest
+  translation: På skolan
+
+- id: our_teachers
+  translation: Personal
+
+- id: download
+  translation: Ladda ner

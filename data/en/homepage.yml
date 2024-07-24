@@ -1,0 +1,159 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Lars-Erik Larsson gymnasiet"
+      content : "Lunds musikgymnasium för natur och samhällsvetenskap."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button1:
+        enable : true
+        label : "Ansöka"
+        link : "apply/"
+      button2:
+        enable : false
+        label : "TEST"
+        link : "contact/"
+ # slider item loop
+    - title : "Nästa konsert - FÖRKLÄDD GUD"
+      content : "LEL erbjuder fantastiska musikupplevelser!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button1:
+        enable : true
+        label : "Köp biljett till konserter"
+        link : "apply/"
+      button2:
+        enable : false
+        label : "TEST"
+        link : "contact/"
+
+
+
+    # slider item loop
+    - title : "Lunds akademiska musikgymnasium - LEL"
+      content : "För en gedigen akademisk utbildning med professionell musikprofil."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button1:
+        enable : true
+        label : "Skugga en elev"
+        link : "apply/"
+      button2:
+        enable : false
+        label : "TEST"
+        link : "contact/"
+
+
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : false
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Scholorship News"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    - name : "Our Notice Board"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # # feature item loop
+    # - name : "Admission Now"
+    #   icon : "ti-write" # icon pack : https://themify.me/themify-icons
+    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Om vår gymnasieskola"
+  image : "images/about/student1.jpeg"
+  content : "Lars-Erik Larsson gymnasiet erbjuder universitetsförberedande gymansieprogram med en kvalificerad musikprofil som även ger mycket goda förutsättningar att studera vidare inom musik. Musiken främjar de teoretiska ämnena 
+  och skapar en helhet där elever finner kreativitet i musiken."
+  button:
+    enable : true
+    label : "Mer om oss"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Våra program"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : false
+  subtitle : "ödlkgj"
+  title : "Hur är det att gå på LEL?"
+  button:
+    enable : true
+    label : "Att Ansöka"
+    link : "apply/"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "RÖSTER OM LEL"
+  content : "[Vill du höra mer?](/recensioner)"
+  # video link
+  video_link : "https://youtu.be/xkFzzocCX4E"
+
+
+
+
+############################# event ################################
+
+event:
+  enable : true
+  title : "Evenemang"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "LÄRARE"
+      count : "25"
+
+    # funfact item loop
+    - name : "ANTAL KONSERTER/ÅR"
+      count : "17"
+
+    # funfact item loop
+    - name : "ELEVER JUST NU"
+      count : "180"
+
+    # funfact item loop
+    - name : "TAGIT STUDENTEN PÅ LEL"
+      count : "1100"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : false
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.

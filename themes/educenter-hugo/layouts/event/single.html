@@ -1,0 +1,177 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <!-- event image (REMOVED)-->
+      <!-- <div class="col-12 mb-4"> -->
+        <!-- <img style="height: 350px;width: 60%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-1100">  -->
+      <!-- </div> -->
+    </div> 
+    <!-- event info -->
+    <div class="row align-items-center mb-5">
+      <div class="col-lg-9">
+        <ul class="list-inline">
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-location-pin text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">{{ i18n "location" | upper}}</h6>
+                <p class="mb-0">{{ .Params.Location | markdownify }}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-calendar text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">{{ i18n "date" | upper}}</h6>
+                <p class="mb-0">{{ .Date | time.Format ":date_medium"}}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-time text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">{{ i18n "time" | upper }}</h6>
+                <p class="mb-0">{{ .Date.Format "15:04 MST"}}</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-xl-5 mr-4 mb-3 mb-lg-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-wallet text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">{{ i18n "entry_fee" | upper }}</h6>
+                <p class="mb-0">{{ .Params.Fee | markdownify }}</p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      {{ if ne .Params.Fee "Gratis" "0"  }}
+        <div class="col-lg-3 text-lg-right text-left">
+          <a target="_blank" href="https://www.ticketmaster.se/artist/lars-erik-larssongymnasiet-biljetter/960155" class="btn btn-primary">{{ i18n "ticket" }}</a>
+        </div>
+      {{ end }}
+      <!-- border -->
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
+    <!-- event details -->
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+      </div>
+    </div>
+
+    <!-- Images Slider -->
+    <div class="row">
+      <!-- <div class="col-12">
+        <h2 class="mb-3">Bilder</h2>
+      </div> -->
+        <div class="emir-carousel col-lg-12"> 
+          {{ range $index, $value := .Params.gallery }}
+          <div class="slick-slide">
+            <img style="height: 300px;width: 90%;object-fit: cover;" class="rounded" data-animation-out="fadeOutLeft" data-delay-out="5" data-duration-in=".3"
+            data-animation-in="fadeInRight" data-delay-in=".1" src="{{ $value.image | relURL }}" alt="{{ $value.title }}">
+          </div>
+        {{ end }}
+        </div>
+
+    </div>
+
+    <!-- Images Slider
+    <div class="row">
+      <div class="col-12">
+        <h2 class="mb-3">Bilder</h2>
+      </div>
+      <div class="col-md-6">
+        <div id="carouselgallery" class="carousel slide" data-bs-ride="carousel">
+          <ul class="carousel-indicators">
+            {{ range $index, $value := .Params.gallery }}
+            <li data-target="#carouselgallery" data-slide-to="{{ $index }}" {{ if eq $index 0 }}class="active" aria-current="true" {{ end }}aria-label="Slide {{ add $index 1}}">
+            </li>
+            {{ end }}
+            </ul>
+          <div class="carousel-inner">
+            {{ range $index, $value := .Params.gallery }}
+            
+            <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
+                  <h5 class="mb-3">{{ $value.title }}</h5>
+                  <img style="height: 400px;width: 100%;object-fit: cover;" data-animation-out="fadeOutLeft" data-delay-out="5" data-duration-in=".3"
+                  data-animation-in="fadeInRight" data-delay-in=".1" src="{{ $value.image | relURL }}" alt="{{ $value.title }}">
+                  <p class="text-left" data-animation-out="fadeOutLeft" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeInRight}" data-delay-in=".4">{{ $value.summary | markdownify }}</p>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        <a class="carousel-control-next" href="#carouselgallery" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+      </a>
+        <a class="carousel-control-prev" href="#carouselgallery" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+
+      </div>
+          
+    </div> 
+    -->
+
+    
+    <!-- event speakers -->
+    {{/*  <div class="row">
+      <div class="col-12">
+        <h3 class="mb-4">{{ i18n "event_speaker"}}</h3>
+      </div>
+      <!-- speakers  -->
+      {{ range .Params.Speaker }}
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="media">
+         {{ with .image }}<img class="mr-3 img-fluid" src="{{ . | relURL }}" alt="speaker">{{ end }}
+          <div class="media-body">
+            <h4 class="mt-0">{{ .name }}</h4>
+            {{ .designation }}
+          </div>
+        </div>
+      </div>   
+      {{ end }} -->
+      <!-- border -->
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>  */}}
+  </div>
+</section>
+<!-- /event single -->
+
+<!-- more event -->
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ i18n "more_event" }}</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <!-- event -->
+      {{ $related := (where site.RegularPages "Type" "event") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+      {{ range first 3 $related }}
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /more event -->
+
+{{ end }}
