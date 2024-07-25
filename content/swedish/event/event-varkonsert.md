@@ -54,4 +54,4 @@ gallery:
 
 ### Om vårkonserten
 
-LEL välkomnar våren med en mångfaldig kör och musikupplevelse i Folkets park. Här blandas modernt och klassiskt och eleverna får visa deras breda repetorar.  
+LEL välkomnar våren med en flerstämmig kör och musikupplevelse i Folkets park. Här blandas modernt och klassiskt och eleverna får visa sin breda repetorar.  

@@ -27,14 +27,14 @@ title3: "Elever bildar själva utskotten"
 
 - LELs Miljöutskott
 - LELs Dansutskott – Jans buggare
-- LELs Feministuskott
+- LELs Feministutskott
 - LELs HBTQ-utskott
-- MåBra-utskott
+- MåBra-utskottet
 - Litterära utskottet
-- Basketutskott
+- Basketutskottet
 - Dekorationsutskottet
 - Friluftsutskottet
-- Prankutskotte
+- Prankutskottet
 - Glassutskottet
 - Kristen skolgrupp
 

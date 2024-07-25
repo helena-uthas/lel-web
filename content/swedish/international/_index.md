@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # image
 image: "images/international/fn_banner.jpg"
 # meta description
-description : "Musikundervisningen på LEL"
+description : "LEL i världen"
 ---
 
 

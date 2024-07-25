@@ -76,4 +76,4 @@ gallery:
 
 ### Om denna konsert
 
-Förklädd gud (opus 24) är en lyrisk svit skapad av Lars-Erik Larsson år 1940. Verkets text är skriven av Hjalmar Gullberg. Denna svit är en del av Larssons nyromantisk musik och räknas som ett av de mest välkända verken inom den svenska klassiska musiken. Lars-Erik Larsson gymansiet har framfört Förklädd Gud ända sedan skolan startades år 2004. Detta framförande är LELs paradkonsert och består av välinövade nummer där kör och orkesters samspelel är speciellt imponerande.     
+Förklädd gud (opus 24) är en lyrisk svit skapad av Lars-Erik Larsson år 1940. Verkets text är skriven av Hjalmar Gullberg. Denna svit är en del av Larssons nyromantiska musik och räknas som ett av de mest välkända verken inom den svenska klassiska musiken. Lars-Erik Larsson gymnasiet har framfört Förklädd Gud ända sedan skolan startades år 2004. Detta framförande är LELs paradkonsert och består av välinövade nummer där kör och orkesters samspelel är speciellt imponerande.     

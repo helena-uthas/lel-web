@@ -63,6 +63,6 @@ Efter avslutade studier på samhällsprogrammet öppnar sig många olika karriä
 
 ### Att ansöka
 
-Du ansöker till LELs samhällsvetenskapliga program med musikprofil via Lunds kommuns gymnasieantagning. Denna öppar i februari varje år och ansökningen stänger en månad senare. Du som har valt LEL i första eller andra hand kommer att bli erbjuden att göra ett antagningsprov. Detta är din chans att få känna på hur det känns att gå på LEL samt att komma i kontakt med skolan och träffa elever med erfarenhet. LELs antagningsprov är en del av skolans tradition. Du kan läsa mer här om hela ansökningsprocesen här. 
+Du ansöker till LELs samhällsvetenskapliga program med musikprofil via Lunds kommuns gymnasieantagning. Denna öppnar i februari varje år och ansökningen stänger en månad senare. Du som har valt LEL i första eller andra hand kommer att bli erbjuden att göra ett antagningsprov. Detta är din chans att få känna på hur det känns att gå på LEL samt att komma i kontakt med skolan och träffa elever med erfarenhet. LELs antagningsprov är en del av skolans tradition. Du kan läsa mer här om hela ansökningsprocesen här. 
 
 

@@ -18,7 +18,7 @@ description : "Viktiga datum för höstterminen 2024"
 
 * Terminsstart: 13/8 
 * Insparken: 3/9
-* Föräldrarmöte (åk 1): 11/9
+* Föräldramöte (åk 1): 11/9
 * Fotografering: 30/9
 * Förklädd gud: 25/10
 * Ljuskonsert: 13/12 

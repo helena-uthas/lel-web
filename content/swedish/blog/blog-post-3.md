@@ -25,6 +25,6 @@ I stort sett varje år deltar skolan i två stora språktävlingar. Dels får in
 
 ##### International Language Competition (ILC)
 
-LEL har ocskå haft stora framgångar i ILC som går av stapeln varje år. Denna språktävlingen visar på kunskaper i engelska, franska, tyska och spanska.  Här får deltagarna visa vad de kan om historia, politik och geografi - och naturligtvis besvara massor av frågor om ord, grammatik och lingvistik!
+LEL har ocskå haft stora framgångar i ILC som går av stapeln varje år. Denna språktävling visar på kunskaper i engelska, franska, tyska och spanska.  Här får deltagarna visa vad de kan om historia, politik och geografi - och naturligtvis besvara massor av frågor om ord, grammatik och lingvistik!
 
 Här är det många elever som briljerat och vi går ofta vidare från kvalomgång till regionfinal och även riksfinal ibland! Under senare år tävlade Lyli Josefsson Wikstrand med David Norberg och kom på en tredjeplats i riksfinalen 2022. År 2023 kom Bruno Klintman i lag med Maxim Platonov på andra plats i riksfinalen i franska. År 2024 kom Arvid Stein och Lovisa Gisselsson på andra plats i engelska. *Fantastiska resultat!*
