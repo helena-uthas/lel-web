@@ -30,7 +30,7 @@ apply_url : "/educenter/site/apply/"
 type: "course"
 # Course Photo Gallery
 gallery:
-    - image: "images/program/samhälle_riksdagen.jpg"
+    - image: "images/program/samhalle_riksdagen.jpg"
       title: "img1 title"
       summary: "img1 description"
     - image: "images/program/natur_labb.jpeg"

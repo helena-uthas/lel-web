@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/bg_sam.jpg"
 # meta description
 description : "För dig som har världen som intresse."
 # course thumbnail
-image: "images/courses/samhälle_riksdagen.jpg"
+image: "images/courses/samhalle_riksdagen.jpg"
 # taxonomy
 category: "Naturvetenskap"
 # teacher
@@ -25,7 +25,7 @@ type: "course"
 # Course Photo Gallery
 image1: "images/courses/FN_sam.jpg"
 title1: "FN rollspel." 
-image2: "images/courses/samhälle_riksdagen.jpg"
+image2: "images/courses/samhalle_riksdagen.jpg"
 title2: "Studiebesök på riksdagen i Stockholm." 
 image3: "images/courses/ekonomi_sam.jpg"
 title3: "Workshop i privatekonomi." 
