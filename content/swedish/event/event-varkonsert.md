@@ -11,7 +11,7 @@ bg_image: "images/backgrounds/springconsert.jpg"
 # meta description
 description : "Kom och sjung in våren med LEL "
 # Event image
-image: "images/events/event_våren.jpg"
+image: "images/events/event_varen.jpg"
 # location
 location: "Folkparken, Lund"
 # entry fee

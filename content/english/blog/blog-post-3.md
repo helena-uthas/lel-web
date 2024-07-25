@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # meta description
 description : ""
 # post thumbnail
-image: "images/blog/språktävling.jpg"
+image: "images/blog/spraktavling.jpg"
 # post author
 author: "Språklärare"
 # taxonomy

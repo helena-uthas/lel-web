@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
-image: "images/about/kåren.jpg"
+image: "images/about/elevkaren.jpg"
 # meta description
 description : "elevkåren"
 ---

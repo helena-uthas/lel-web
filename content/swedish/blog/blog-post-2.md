@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # meta description
 description : "mattetävling"
 # post thumbnail
-image: "images/blog/mattetävling.jpg"
+image: "images/blog/mattetavling.jpg"
 # post author
 author: "Matematiklärare"
 # taxonomy
