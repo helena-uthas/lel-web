@@ -15,30 +15,30 @@ image: "images/events/event_gud2.jpg"
 # location
 location: "Domkyrkan, Lund"
 # entry fee
-fee: "Från 300 kr"
+fee: "Från 200 kr"
 # apply url
 apply_url : "#"
 # event speaker
-speaker:
+#speaker:
   # speaker loop
-  - name : "Jack Mastio"
-    image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
+  #- name : "Jack Mastio"
+  #  image : "images/event-speakers/speaker-1.jpg"
+  #  designation : "Teacher"
 
   # speaker loop
-  - name : "John Doe"
-    image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
+  #- name : "John Doe"
+  #  image : "images/event-speakers/speaker-2.jpg"
+  #  designation : "Teacher"
 
   # speaker loop
-  - name : "Randy Luis"
-    image : "images/event-speakers/speaker-3.jpg"
-    designation : "Teacher"
+  #- name : "Randy Luis"
+  #  image : "images/event-speakers/speaker-3.jpg"
+  #  designation : "Teacher"
 
   # speaker loop
-  - name : "Alfred Jin"
-    image : "images/event-speakers/speaker-4.jpg"
-    designation : "Teacher"
+  #- name : "Alfred Jin"
+  #  image : "images/event-speakers/speaker-4.jpg"
+  #  designation : "Teacher"
 
 # type
 type: "event"
