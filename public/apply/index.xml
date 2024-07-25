@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sök till LEL on LEL | Lars-Erik Larsson gymnasiet</title>
+    <link>http://localhost:1313/educenter/site/apply/</link>
+    <description>Recent content in Sök till LEL on LEL | Lars-Erik Larsson gymnasiet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <atom:link href="http://localhost:1313/educenter/site/apply/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

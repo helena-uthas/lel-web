@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Läsårstider on LEL | Lars-Erik Larsson gymnasiet</title>
+    <link>http://localhost:1313/educenter/site/skolinfo/</link>
+    <description>Recent content in Läsårstider on LEL | Lars-Erik Larsson gymnasiet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <atom:link href="http://localhost:1313/educenter/site/skolinfo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Musik</title>
+      <link>http://localhost:1313/educenter/site/skolinfo/skolinfo-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/educenter/site/skolinfo/skolinfo-1/</guid>
+      <description> Konsert med spetskören (Allhelgona kyran) 16/10 Förklädd gud (Domkyrkan) 25/10 Ljuskonsert (Allhelgona kyrkan) 13/12 </description>
+    </item>
+    <item>
+      <title>Naturprogrammet</title>
+      <link>http://localhost:1313/educenter/site/skolinfo/skolinfo-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/educenter/site/skolinfo/skolinfo-3/</guid>
+      <description> Stadsorientering åk 1 och 3, 22/8 Exkursion/utflykt åk 2, 22/8 Studiebesök i Taastrup, 17/10 Inspirationsdag på Lunds Universitet, 5/11 </description>
+    </item>
+    <item>
+      <title>Samhällsprogrammet</title>
+      <link>http://localhost:1313/educenter/site/skolinfo/skolinfo-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/educenter/site/skolinfo/skolinfo-2/</guid>
+      <description> Stadsorientering åk 1 och 3, 22/8 Exkursion/utflykt åk 2, 22/8 </description>
+    </item>
+  </channel>
+</rss>

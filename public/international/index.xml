@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internationalisering on LEL | Lars-Erik Larsson gymnasiet</title>
+    <link>http://localhost:1313/educenter/site/international/</link>
+    <description>Recent content in Internationalisering on LEL | Lars-Erik Larsson gymnasiet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <atom:link href="http://localhost:1313/educenter/site/international/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Förintelsens minnesdag</title>
+      <link>http://localhost:1313/educenter/site/international/international1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/educenter/site/international/international1/</guid>
+      <description>Varje år detar LELs elever i aktiviteter för att uppmärksamma förintelsen.</description>
+    </item>
+    <item>
+      <title>Språktävlingar</title>
+      <link>http://localhost:1313/educenter/site/international/international2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/educenter/site/international/international2/</guid>
+      <description>LEL har haft stora framgångar på språktävlingar, både på internationellt och på hemmaplan.</description>
+    </item>
+    <item>
+      <title>Tastrup</title>
+      <link>http://localhost:1313/educenter/site/international/international3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/educenter/site/international/international3/</guid>
+      <description>Treorna besökte på PLEN Living Labs i Taastrup Danmark (2024). Nytt studiebesök är planerat till hösten 2024.</description>
+    </item>
+  </channel>
+</rss>
