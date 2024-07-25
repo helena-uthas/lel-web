@@ -9,5 +9,5 @@ image: "images/about/barbie.jpg"
 description : "ensambler"
 ---
 
-* På LEL finns flera ensambler och körer att delta i. Du kan ansöka till de ensambler du är intresserade av. 
+* På LEL finns flera ensambler och körer att delta i. Du kan ansöka till de ensambler du är intresserad av. 
 [Läs mer om LELs musik här.]({{< ref "/musikprofilen" >}} "emsambler") 

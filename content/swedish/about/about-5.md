@@ -9,4 +9,4 @@ image: "images/about/elevkaren.jpg"
 description : "elevkåren"
 ---
 
-* Att engagera sig i elevkåren innebär möjliget att föra elevernas talan. [Läs mer här]({{< ref "/elevrad" >}} "elevrad") 
+* Att engagera sig i elevkåren innebär möjlighet att föra elevernas talan. [Läs mer här]({{< ref "/elevrad" >}} "elevrad") 

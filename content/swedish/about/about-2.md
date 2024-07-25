@@ -10,4 +10,4 @@ description : "Linderberska skolan i Lund"
 ---
 
 * Idag delar LEL lokaler på Linderbergska skolan med Kulturskolan i Lund.
-* Här finns den vackera aulan där vi ofta håller konserter och avslutningar. 
+* Här finns den vackra aulan där vi ofta håller konserter och avslutningar. 
